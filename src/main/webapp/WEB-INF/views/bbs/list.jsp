@@ -24,7 +24,7 @@ href="css/bbs_list.css"/>
 	<div id="header">
 		<h1>SK Together</h1>
 		<ul class="gnb">
-			<li><a href=""><span class="menu m01">기브유</span></a></li>
+			<li><a href=""><span class="menu m01">테스트입니다</span></a></li>
 			<li><a href=""><span class="menu m02">위드유</span></a></li>
 			<li><a href=""><span class="menu m03">스마트 전통시장</span></a></li>
 			<li><a href=""><span class="menu m04">BRAVO!</span></a></li>
